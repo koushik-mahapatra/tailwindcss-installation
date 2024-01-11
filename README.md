@@ -52,4 +52,8 @@ module.exports = {
 
 `npx tailwindcss init configkmp --full`
 
-<a href="https://www.codewithharry.com/videos/tailwind-course-in-hindi-12/">Learn More</a>
+<a
+      target="_blank"
+      href="https://www.codewithharry.com/videos/tailwind-course-in-hindi-12/"
+      >Learn More</a
+    >
